@@ -178,7 +178,3 @@ button.filled:disabled {
     margin-top: 16px;
     text-align: center;
   }
-
-.signature-container td {
-  line-height: 1 !important;
-}
